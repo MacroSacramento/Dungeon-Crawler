@@ -1,0 +1,110 @@
+
+Dungeon Crawler Pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BackGround
+  rotate: false
+  xy: 0, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+meh
+  rotate: false
+  xy: 66, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 0, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 132, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fb
+  rotate: false
+  xy: 34, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fbl
+  rotate: false
+  xy: 166, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fbld
+  rotate: false
+  xy: 68, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fbr
+  rotate: false
+  xy: 200, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fbrd
+  rotate: false
+  xy: 132, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ft
+  rotate: false
+  xy: 166, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ftl
+  rotate: false
+  xy: 200, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ftld
+  rotate: false
+  xy: 102, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ftr
+  rotate: false
+  xy: 136, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ftrd
+  rotate: false
+  xy: 170, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 204, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
