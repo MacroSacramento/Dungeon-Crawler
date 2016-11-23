@@ -21,7 +21,7 @@ public class DungeonGame extends Game {
 	
 	public void create () {
 		batch = new SpriteBatch();
-		map = new Map(64, 64, 5, 12, 68); 
+		map = new Map(); 
 		t = new Textures();
 		p = new Player();
 	}
